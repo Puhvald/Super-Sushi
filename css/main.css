@@ -1,0 +1,264 @@
+body {
+    font-family: Arial, serif;
+    margin: 0;
+}
+
+#header {
+    background: #020303;
+}
+
+#header-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    font-size: 0;
+    padding: 30px 0 30px 0;
+}
+
+div .header-item {
+    font-size: 16px;
+    color: #FDEFD5;
+    line-height: 1.2;
+    text-decoration: none;
+    margin: 0 30px;
+    vertical-align: middle;
+}
+
+.logo {
+    display: inline-block;
+    vertical-align: middle;
+    text-decoration: none;
+    text-align: left;
+}
+
+.logo img {
+    vertical-align: middle;
+    margin-right: 11px;
+}
+
+.logo span {
+    font-size: 16px;
+    color: #FFFFFF;
+    font-weight: bold;
+    line-height: 1.2;
+    vertical-align: middle;
+    text-align: left;
+    display: inline-block;
+    width: 60px;
+}
+
+#header-items .logo {
+    margin-right: 253px;
+}
+
+#main {
+    background: #020303;
+}
+
+#main-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    font-size: 0;
+    padding: 133px 0 30px 0;
+}
+
+#block-left {
+    display: inline-block;
+    vertical-align: bottom;
+    padding-bottom: 50px;
+}
+
+#main-container h1 {
+    width: 564px;
+    font-size: 45px;
+    color: #FFFFFF;
+    font-weight: bold;
+    line-height: 1.222;
+    margin: 0;
+}
+
+#main-container h1 span {
+    color: #ffaf18;
+}
+
+div #quality {
+    margin-top: 74px;
+}
+
+.quality-block {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 99px;
+}
+
+.quality-block img {
+    margin-right: 11px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.quality-text {
+    font-size: 16px;
+    color: #FFFFFF;
+    line-height: 1.5;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+#for-button {
+    display: inline-block;
+}
+
+div #main-button {
+    display: inline-block;
+    background-color: #FFAF18;
+    width: 224px;
+    border-radius: 30px;
+    font-size: 16px;
+    color: #020303;
+    line-height: 3.438;
+    text-decoration: none;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 92px;
+}
+
+#main-image {
+    display: inline-block;
+    vertical-align: bottom;
+}
+
+#select {
+    background: #020303;
+}
+
+#select-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    font-size: 0;
+    padding: 120px 0 108px 0;
+    text-align: center;
+}
+
+#sushi-block {
+    margin: 0 -12px 0 -12px;
+}
+
+#sushi-block h2 {
+    font-size: 35px;
+    color: #FFFFFF;
+    font-weight: bold;
+    line-height: 1.571;
+    margin: 0 0 48px 0;
+}
+
+.sushi-blocks {
+    background-color: #FFFFFF;
+    width: 282px;
+    display: inline-block;
+    margin: 12px;
+}
+
+.sushi-img {
+    margin: 10px 0 30px 0;
+}
+
+.sushi-title {
+    font-size: 18px;
+    color: #181A1A;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.sushi-text {
+    font-size: 14px;
+    color: #181A1A;
+    margin: 0 auto;
+    width: 242px;
+    height: 51px;
+}
+
+.sushi-button {
+    font-size: 16px;
+    color: #020303;
+    line-height: 3.438;
+    font-weight: bold;
+    background-color: #FFAF18;
+    width: 224px;
+    border-radius: 30px;
+    text-align: center;
+    border: 0;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+}
+
+#description {
+    background: #020303;
+}
+
+#description-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    font-size: 0;
+    text-align: left;
+    padding: 109px 0 0 0;
+}
+
+#description-block {
+    margin: 0 -7px 0 -7px;
+}
+
+#first-block {
+    display: inline-block;
+    margin: 0 7px 0 7px;
+    vertical-align: top;
+}
+
+#first-block h2 {
+    font-size: 35px;
+    color: #ffffff;
+    font-weight: bold;
+    line-height: 1.286;
+    width: 386px;
+    margin: 0 0 60px 0;
+}
+
+#block-text {
+    font-size: 16px;
+    color: #ffffff;
+    line-height: 1.5;
+    width: 380px;
+    height: 163px;
+}
+
+#second-block-img {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 7px 0 7px;
+}
+
+#footer {
+    background: #020303;
+}
+
+#footer-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    font-size: 0;
+    padding: 35px 0 35px 0;
+}
+
+#footer-text {
+    font-size: 12px;
+    color: #2C2C2C;
+    line-height: 1.2;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 390px;
+}
+
+
+
+
+
+
